@@ -15,8 +15,13 @@
     --popover: 0 0% 100%;
     --popover-foreground: 240 30% 14%;
 
-    --primary: 340 75% 58%;
+    --primary: 210 85% 42%;
     --primary-foreground: 0 0% 100%;
+    --trust-green: 152 55% 38%;
+    --trust-green-foreground: 0 0% 100%;
+    --trust-blue: 210 85% 42%;
+    --trust-blue-soft: 210 90% 96%;
+    --trust-green-soft: 152 55% 94%;
 
     --secondary: 240 10% 94%;
     --secondary-foreground: 240 30% 14%;
@@ -32,7 +37,7 @@
 
     --border: 0 0% 91%;
     --input: 0 0% 91%;
-    --ring: 340 75% 58%;
+    --ring: 210 85% 42%;
 
     --radius: 0.5rem;
 
